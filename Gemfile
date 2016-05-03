@@ -17,6 +17,12 @@ gem 'pg'
 # Use SCSS for stylesheets
 gem 'simple_form'
 
+gem 'carrierwave'
+
+gem "figaro"
+
+gem "fog", "~> 1.3.1"
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
